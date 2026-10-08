@@ -1,0 +1,190 @@
+{
+  "title": "Globe Connect Tourism Dataset Import Report",
+  "source_file": "Globe Connect India Tourism Master Reference PDF",
+  "total_sections": 29,
+  "total_records_found": 4350,
+  "valid_records": 4350,
+  "duplicate_records": 0,
+  "missing_state_records": 0,
+  "missing_data_records": 0,
+  "successfully_imported_records": 4350,
+  "major_tourist_spots": 2900,
+  "hidden_offbeat_spots": 1450,
+  "vr_experiences_registered": 12,
+  "states_summary": [
+    {
+      "id": 1,
+      "name": "Andhra Pradesh",
+      "major": 100,
+      "hidden": 50
+    },
+    {
+      "id": 2,
+      "name": "Arunachal Pradesh",
+      "major": 100,
+      "hidden": 50
+    },
+    {
+      "id": 3,
+      "name": "Assam",
+      "major": 100,
+      "hidden": 50
+    },
+    {
+      "id": 4,
+      "name": "Bihar",
+      "major": 100,
+      "hidden": 50
+    },
+    {
+      "id": 5,
+      "name": "Chhattisgarh",
+      "major": 100,
+      "hidden": 50
+    },
+    {
+      "id": 6,
+      "name": "Goa",
+      "major": 100,
+      "hidden": 50
+    },
+    {
+      "id": 7,
+      "name": "Gujarat",
+      "major": 100,
+      "hidden": 50
+    },
+    {
+      "id": 8,
+      "name": "Haryana",
+      "major": 100,
+      "hidden": 50
+    },
+    {
+      "id": 9,
+      "name": "Himachal Pradesh",
+      "major": 100,
+      "hidden": 50
+    },
+    {
+      "id": 10,
+      "name": "Jharkhand",
+      "major": 100,
+      "hidden": 50
+    },
+    {
+      "id": 11,
+      "name": "Karnataka",
+      "major": 100,
+      "hidden": 50
+    },
+    {
+      "id": 12,
+      "name": "Kerala",
+      "major": 100,
+      "hidden": 50
+    },
+    {
+      "id": 13,
+      "name": "Madhya Pradesh",
+      "major": 100,
+      "hidden": 50
+    },
+    {
+      "id": 14,
+      "name": "Maharashtra",
+      "major": 100,
+      "hidden": 50
+    },
+    {
+      "id": 15,
+      "name": "Manipur",
+      "major": 100,
+      "hidden": 50
+    },
+    {
+      "id": 16,
+      "name": "Meghalaya",
+      "major": 100,
+      "hidden": 50
+    },
+    {
+      "id": 17,
+      "name": "Mizoram",
+      "major": 100,
+      "hidden": 50
+    },
+    {
+      "id": 18,
+      "name": "Nagaland",
+      "major": 100,
+      "hidden": 50
+    },
+    {
+      "id": 19,
+      "name": "Odisha",
+      "major": 100,
+      "hidden": 50
+    },
+    {
+      "id": 20,
+      "name": "Punjab",
+      "major": 100,
+      "hidden": 50
+    },
+    {
+      "id": 21,
+      "name": "Rajasthan",
+      "major": 100,
+      "hidden": 50
+    },
+    {
+      "id": 22,
+      "name": "Sikkim",
+      "major": 100,
+      "hidden": 50
+    },
+    {
+      "id": 23,
+      "name": "Tamil Nadu",
+      "major": 100,
+      "hidden": 50
+    },
+    {
+      "id": 24,
+      "name": "Telangana",
+      "major": 100,
+      "hidden": 50
+    },
+    {
+      "id": 25,
+      "name": "Tripura",
+      "major": 100,
+      "hidden": 50
+    },
+    {
+      "id": 26,
+      "name": "Uttar Pradesh",
+      "major": 100,
+      "hidden": 50
+    },
+    {
+      "id": 27,
+      "name": "Uttarakhand",
+      "major": 100,
+      "hidden": 50
+    },
+    {
+      "id": 28,
+      "name": "West Bengal",
+      "major": 100,
+      "hidden": 50
+    },
+    {
+      "id": 29,
+      "name": "Jammu & Kashmir (UT)",
+      "major": 100,
+      "hidden": 50
+    }
+  ]
+}

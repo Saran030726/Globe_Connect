@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Globe Circle Outer Glow/Ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFB300"
+        android:strokeWidth="3.2"
+        android:pathData="M 54,26 A 28,28 0 1 0 54,82 A 28,28 0 1 0 54,26" />
+
+    <!-- Globe Meridian Curves -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.6"
+        android:pathData="M 54,26 C 42,36 42,72 54,82" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.6"
+        android:pathData="M 54,26 C 66,36 66,72 54,82" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.6"
+        android:pathData="M 26,54 H 82" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#80FFFFFF"
+        android:strokeWidth="1.2"
+        android:pathData="M 30,40 C 44,45 64,45 78,40" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#80FFFFFF"
+        android:strokeWidth="1.2"
+        android:pathData="M 30,68 C 44,63 64,63 78,68" />
+
+    <!-- Center Compass Diamond / Location Pin Emblem -->
+    <!-- North Pointer (Gold) -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M 54,34 L 59,54 L 54,50 Z" />
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M 54,34 L 49,54 L 54,50 Z" />
+    <!-- South Pointer (White / Slate) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 54,74 L 59,54 L 54,58 Z" />
+    <path
+        android:fillColor="#CFD8DC"
+        android:pathData="M 54,74 L 49,54 L 54,58 Z" />
+    <!-- East & West Accents -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M 74,54 L 54,49 L 58,54 Z" />
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M 34,54 L 54,49 L 50,54 Z" />
+    <!-- Center Jewel Dot -->
+    <path
+        android:fillColor="#0F2942"
+        android:pathData="M 54,51 A 3,3 0 1 0 54,57 A 3,3 0 1 0 54,51" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M 54,52.5 A 1.5,1.5 0 1 0 54,55.5 A 1.5,1.5 0 1 0 54,52.5" />
+</vector>

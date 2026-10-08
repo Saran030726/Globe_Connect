@@ -1,0 +1,6 @@
+{
+  "name": "Globe Connect",
+  "description": "Commercial-grade tourism platform featuring 4,350 verified Indian destinations, hidden gems, package builder, 360° VR, and custom travel bookings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
